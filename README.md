@@ -1,2 +1,2 @@
-# Code-Perbandingan-PAM-DBSCAN
-Project ini dibuat menggunakan Python
+# Perbandingan Algoritma PAM dan DBSCAN dalam Python
+Repositori ini berisi aplikasi yang mengimplementasikan dan membandingkan dua algoritma clustering populer: PAM (Partitioning Around Medoids) dan DBSCAN (Density-Based Spatial Clustering of Applications with Noise). Aplikasi ini dibangun menggunakan bahasa pemrograman Python dan dilengkapi dengan berbagai contoh serta visualisasi untuk memudahkan pemahaman dan analisis hasil clustering.
